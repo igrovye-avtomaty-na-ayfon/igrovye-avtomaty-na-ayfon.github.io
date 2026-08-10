@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-na-ayfon.github.io
+Sitemap: https://igrovye-avtomaty-na-ayfon.github.io/sitemap.xml
